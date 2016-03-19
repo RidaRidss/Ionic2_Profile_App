@@ -11,8 +11,9 @@ Starting Guide :  :memo:
                                                                         
 ### You will get an access of this Project On Web Server :speech_balloon:
 
- :back: Build This App On Different Mobile Platforms  :grey_question:
-
+:back:
+## Build This App On Different Mobile Platforms  :grey_question:
+                                                                                                                              
 1. Open this Project in cmd 
 
 > Type Command :  :signal_strength: adb devices   :id:
