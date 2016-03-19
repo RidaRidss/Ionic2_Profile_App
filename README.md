@@ -3,13 +3,13 @@
 ## Hybrid App - cross-platform mobile app
                                                                                     
                                                                                     
-Starting Guide :  :memo:
+# Starting Guide :  :memo:
 
 1. Open this Project in cmd 
 
 > Type Command : ionic serve  :end: 
                                                                         
-### You will get an access of this Project On Web Server :speech_balloon:
+#### You will get an access of this Project On Web Server :speech_balloon:
 
 :back:
 ## Build This App On Different Mobile Platforms  :grey_question:
@@ -18,8 +18,8 @@ Starting Guide :  :memo:
 
 > Type Command :  :signal_strength: adb devices   :id:
                                                                         
-## Now you have list of adb devices , you have connected with :speech_balloon:
-### You want get an access of this Project On these devices :speech_balloon:
+#### Now you have list of adb devices , you have connected with :speech_balloon:
+#### You want get an access of this Project On these devices :speech_balloon:
                                                                                                           
  Such e.gs are here :
  
