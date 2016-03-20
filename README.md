@@ -35,6 +35,5 @@
                                                                                                                                   
 
 ### Screenshot
-<a href="http://i.imgur.com/KbtXv8d.png"><img src="http://imgur.com/KbtXv8d" align="left" width="250"></a>
-[IOnic App](http://i.imgur.com/KbtXv8d.png)
-[img]http://i.imgur.com/KbtXv8d.png[/img]
+<a href="http://i.imgur.com/KbtXv8d.png"><img src="http://imgur.com/KbtXv8d" align="left" width="250">http://imgur.com/KbtXv8d</a>
+
