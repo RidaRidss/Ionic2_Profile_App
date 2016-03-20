@@ -20,8 +20,10 @@
     <ion-avatar item-left>
       <img src="build/img/profile.jpg">
     </ion-avatar>
-   <h4>Rida Ridss</h4> <p> 12-04-1994 </p>
-<div item-right><em>Skills:</em> <ion-icon ios="logo-nodejs" md="logo-nodejs"></ion-icon> <ion-icon ios="logo-angular" md="logo-angular"></ion-icon>   <ion-icon ios="logo-html5" md="logo-html5"></ion-icon> <ion-icon ios="logo-css3" md="logo-css3"></ion-icon> <ion-icon ios="logo-javascript" md="logo-javascript"></ion-icon> <ion-icon ios="ios-phone-portrait" md="md-phone-portrait"></ion-icon> <ion-icon ios="ios-tablet-portrait" md="md-tablet-portrait"></ion-icon> <ion-icon ios="logo-reddit" md="logo-reddit"></ion-icon> <ion-icon ios="logo-sass" md="logo-sass"></ion-icon> <ion-icon ios="ios-ionic" md="md-ionic"></ion-icon> <ion-icon ios="logo-github" md="logo-github"></ion-icon>   <ion-icon ios="ios-git-network" md="md-git-network"></ion-icon>   <ion-icon ios="ios-git-compare" md="md-git-compare"></ion-icon> <ion-icon ios="ios-git-merge" md="md-git-merge"></ion-icon> <ion-icon ios="ios-git-commit" md="md-git-commit"></ion-icon>  <ion-icon ios="ios-git-branch" md="md-git-branch"></ion-icon></div>
+   <h5>Rida Ridss</h5> <em>12-04-1994 </em>
+<div item-right>
+<em>Skills:</em> <ion-icon ios="logo-nodejs" md="logo-nodejs"></ion-icon> <ion-icon ios="logo-angular" md="logo-angular"></ion-icon>   <ion-icon ios="logo-html5" md="logo-html5"></ion-icon> <ion-icon ios="logo-css3" md="logo-css3"></ion-icon> <ion-icon ios="logo-javascript" md="logo-javascript"></ion-icon> <ion-icon ios="ios-phone-portrait" md="md-phone-portrait"></ion-icon> <ion-icon ios="ios-tablet-portrait" md="md-tablet-portrait"></ion-icon> <ion-icon ios="logo-reddit" md="logo-reddit"></ion-icon> <ion-icon ios="logo-sass" md="logo-sass"></ion-icon> <ion-icon ios="ios-ionic" md="md-ionic"></ion-icon> <ion-icon ios="logo-github" md="logo-github"></ion-icon>   <ion-icon ios="ios-git-network" md="md-git-network"></ion-icon>   <ion-icon ios="ios-git-compare" md="md-git-compare"></ion-icon> <ion-icon ios="ios-git-merge" md="md-git-merge"></ion-icon> <ion-icon ios="ios-git-commit" md="md-git-commit"></ion-icon>  <ion-icon ios="ios-git-branch" md="md-git-branch"></ion-icon>
+</div>
 </ion-item>
 <!-- <ion-icon ios="ios-paper" md="md-paper" item-left></ion-icon>
  <a class="plainText"> B.C.S </a>
@@ -33,7 +35,6 @@
 <div small item-left>
  <ion-icon name="mail" ios="ios-mail" md="md-mail" item-left></ion-icon>
      <a class="plainText" href="mailto:ridarocks12@yahoo.com">ridarocks12@yahoo.com</a> 
-  </div>
     <button primary clear item-left>
 <ion-icon ios="ios-thumbs-up" md="md-thumbs-up"></ion-icon>
       <div>100432 Likes</div>
@@ -48,6 +49,7 @@
 <ion-icon ios="ios-stats" md="md-stats"></ion-icon>
     Viewers feedback updated 1h ago 
     </ion-note>
+</div>
   </ion-item>
 <!-- <ion-list>
 <div padding>
@@ -55,14 +57,12 @@
   <ion-label floating>Username</ion-label>
     <ion-input type="text"></ion-input>
   </ion-item>
-
   <ion-item>
     <ion-label floating>Password</ion-label>
     <ion-input type="password"></ion-input>
   </ion-item>
 </div>
 </ion-list> 
-
 <div padding>
   <button block (click)="userPrompt()">Sign In</button>
 </div> 
@@ -70,45 +70,39 @@
 <br/>  
 
 -->
-<ion-list> 
-<em>Education</em>
-<hr>
-<ion-item>
+ 
+<em> Education</em>
+<hr> 
+<ion-item small>
     <ion-avatar item-left>
       <img src="build/img/ku.jpg">
     </ion-avatar>
-    <h2>Karachi University</h2>
-    <p>BCS (3 years Program ), Computer Science, 3.0 G.P
-    <br/>
-     2012-2014</p>
+    <h3>Karachi University</h3>
+    <p>BCS (3 years Program ), Computer Science, 3.0 G.P - 2012-2014</p>
   </ion-item>
-  <ion-item>
+  <ion-item small>
     <ion-avatar item-left>
       <img src="build/img/new_era_academy.jpg">
     </ion-avatar>
-    <h2>New Era Academy</h2>
-    <p>matric science, Computer Science, A
-    <br/>2008-2009 - got certificate from Union Council no. 09 For Distinction Marks In Matriculation</p>
+    <h3>New Era Academy</h3>
+    <p>matric science, Computer Science, A , 2008-2009 - got certificate from Union Council no. 09 For Distinction Marks In Matriculation</p>
   </ion-item>
-</ion-list>
    <em>Certifications</em>
 <hr>
-  <ion-item>
+  <ion-item small>
     <ion-avatar item-left>
       <img src="build/img/ssuet.jpg">
     </ion-avatar>
-    <h2>Functional And Object Oriented Programming Using Javascript</h2>
+    <h3>Functional And Object Oriented Programming Using Javascript</h3>
     <p>Major courses :
-
 <ion-icon ios="logo-html5" md="logo-html5"></ion-icon>
  ,   <ion-icon ios="logo-css3" md="logo-css3"></ion-icon> ,   <ion-icon ios="logo-javascript" md="logo-javascript"></ion-icon> ,Typescript , BootStraP , GIT</p>
   </ion-item>
-<hr>
-<ion-item>
+<ion-item padding> 
     <ion-avatar item-left>
       <img src="build/img/THE_BEST.png">
     </ion-avatar>
-    <h2>MS OFFICE</h2>
+    <h3 style="line-height:-1em">MS OFFICE</h3>
   </ion-item>
   </ion-card-content>
   </ion-card>
@@ -123,7 +117,7 @@
     <ion-icon name="pin"></ion-icon>
   </button>
     </ion-avatar>
-     <h2> Teaching Chemistry And Physics And Freelancing </h2>
+     <h3> Teaching Chemistry And Physics And Freelancing </h3>
    <p>Glamour Children Secondary School - April 2015-Present (1 year) and Freelancing Web Projects-June 2014-Present (1 year 10 months)</p>
   </ion-item>
 </ion-list>
