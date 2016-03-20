@@ -1,4 +1,4 @@
-# Ionic_Mini_App
+# Ionic 2_Mini_App
                                                                 
 ## Hybrid App - cross-platform mobile app
                                                                                     
