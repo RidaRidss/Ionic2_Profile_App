@@ -35,4 +35,6 @@
                                                                                                                                   
 
 ### Screenshot
-<a href="http://i.imgur.com/XRmIk8g.png"><img src="http://imgur.com/XRmIk8g" align="left" width="500" ></a>
+                                                                                                        
+:link: <a>http://imgur.com/XRmIk8g</a>
+<a href="http://i.imgur.com/XRmIk8g.png"><img src="http://imgur.com/XRmIk8g" align="left" width="200" ></a>
