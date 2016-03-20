@@ -35,4 +35,4 @@
                                                                                                                                   
 
 ### Screenshot
-<a href="http://imgur.com/KbtXv8d.jpg"><img src="http://imgur.com/KbtXv8d" align="left" width="250"></a>
+<a href="http://i.imgur.com/KbtXv8d.jpg"><img src="http://i.imgur.com/KbtXv8d" align="left" width="250"></a>
